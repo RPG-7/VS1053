@@ -1,0 +1,227 @@
+Dependencies for Project 'SD', Target 'Target 1': (DO NOT MODIFY !)
+F (..\CMSIS\CM3\CoreSupport\core_cm3.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "core_cm3.o" --omf_browse "core_cm3.crf" --depend "core_cm3.d")
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+F (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "system_stm32f10x.o" --omf_browse "system_stm32f10x.crf" --depend "system_stm32f10x.d")
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\misc.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "misc.o" --omf_browse "misc.crf" --depend "misc.d")
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_gpio.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_gpio.o" --omf_browse "stm32f10x_gpio.crf" --depend "stm32f10x_gpio.d")
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_rcc.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_rcc.o" --omf_browse "stm32f10x_rcc.crf" --depend "stm32f10x_rcc.d")
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_spi.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_spi.o" --omf_browse "stm32f10x_spi.crf" --depend "stm32f10x_spi.d")
+I (..\Libraries\inc\stm32f10x_spi.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_usart.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_usart.o" --omf_browse "stm32f10x_usart.crf" --depend "stm32f10x_usart.d")
+I (..\Libraries\inc\stm32f10x_usart.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_adc.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_adc.o" --omf_browse "stm32f10x_adc.crf" --depend "stm32f10x_adc.d")
+I (..\Libraries\inc\stm32f10x_adc.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_exti.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_exti.o" --omf_browse "stm32f10x_exti.crf" --depend "stm32f10x_exti.d")
+I (..\Libraries\inc\stm32f10x_exti.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Libraries\src\stm32f10x_tim.c)(0x4EE57D14)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_tim.o" --omf_browse "stm32f10x_tim.crf" --depend "stm32f10x_tim.d")
+I (..\Libraries\inc\stm32f10x_tim.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\Startup\startup_stm32f10x_cl.s)(0x4EE57D14)(--cpu Cortex-M3 -g --apcs=interwork -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x --list ".\startup_stm32f10x_cl.lst" --xref -o ".\startup_stm32f10x_cl.o" --depend ".\startup_stm32f10x_cl.d")
+F (..\code\main.c)(0x5ABDDAB7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_adc.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_tim.h)(0x4EE57D14)
+I (..\code\mmc_sd.h)(0x59451EF3)
+I (..\code\vs.h)(0x594D0035)
+I (..\code\pwm.h)(0x59783F1D)
+I (..\code\touch.h)(0x5903F97C)
+I (..\code\ini.h)(0x58CC9FC2)
+I (..\code\LCD.h)(0x596C18F2)
+I (..\code\play.h)(0x5977E336)
+I (..\code\file.h)(0x591FE5A4)
+I (..\code\ds18b.h)(0x596C1D7E)
+F (..\code\mmc_sd.c)(0x59451EF3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "mmc_sd.o" --omf_browse "mmc_sd.crf" --depend "mmc_sd.d")
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\code\mmc_sd.h)(0x59451EF3)
+I (..\code\vs.h)(0x594D0035)
+I (..\Libraries\inc\stm32f10x_spi.h)(0x4EE57D14)
+F (..\code\stm32f10x_it.c)(0x5880D161)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "stm32f10x_it.o" --omf_browse "stm32f10x_it.crf" --depend "stm32f10x_it.d")
+I (..\code\stm32f10x_it.h)(0x5880D161)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\code\VS.c)(0x594CFF52)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "vs.o" --omf_browse "vs.crf" --depend "vs.d")
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_spi.h)(0x4EE57D14)
+I (..\code\vs.h)(0x594D0035)
+F (..\code\touch.c)(0x5903F97C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "touch.o" --omf_browse "touch.crf" --depend "touch.d")
+I (..\code\touch.h)(0x5903F97C)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_spi.h)(0x4EE57D14)
+F (..\code\ini.c)(0x59783F78)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "ini.o" --omf_browse "ini.crf" --depend "ini.d")
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_usart.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_spi.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_adc.h)(0x4EE57D14)
+I (..\code\ini.h)(0x58CC9FC2)
+F (..\code\LCD.c)(0x596C1BAE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "lcd.o" --omf_browse "lcd.crf" --depend "lcd.d")
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\code\LCD.h)(0x596C18F2)
+I (..\code\mmc_sd.h)(0x59451EF3)
+F (..\code\play.c)(0x5978444A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "play.o" --omf_browse "play.crf" --depend "play.d")
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_exti.h)(0x4EE57D14)
+I (..\Libraries\inc\stm32f10x_tim.h)(0x4EE57D14)
+I (..\code\LCD.h)(0x596C18F2)
+I (..\code\mmc_sd.h)(0x59451EF3)
+I (..\code\vs.h)(0x594D0035)
+I (..\code\play.h)(0x5977E336)
+I (..\code\touch.h)(0x5903F97C)
+F (..\code\file.c)(0x595744A1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "file.o" --omf_browse "file.crf" --depend "file.d")
+I (..\code\mmc_sd.h)(0x59451EF3)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+I (..\code\file.h)(0x591FE5A4)
+I (..\code\LCD.h)(0x596C18F2)
+F (..\code\ds18b.c)(0x596C1D7E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "ds18b.o" --omf_browse "ds18b.crf" --depend "ds18b.d")
+I (..\code\ds18b.h)(0x596C1D7E)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
+F (..\code\pwm.c)(0x5978425D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS\CM3\CoreSupport -I..\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I..\Libraries\inc -I..\Libraries\src -I..\Startup -I..\code -I D:\soft\ARM\ARM\RV31\INC -I D:\soft\ARM\ARM\CMSIS\Include -I D:\soft\ARM\ARM\Inc\ST\STM32F10x -DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o "pwm.o" --omf_browse "pwm.crf" --depend "pwm.d")
+I (..\code\pwm.h)(0x59783F1D)
+I (..\Libraries\inc\stm32f10x_tim.h)(0x4EE57D14)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x509B5B1E)
+I (..\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4EE57D14)
+I (D:\soft\ARM\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB0D284)
+I (..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4EE57D14)
+I (..\code\stm32f10x_conf.h)(0x509B5404)
+I (..\Libraries\inc\stm32f10x_gpio.h)(0x50790622)
+I (..\Libraries\inc\stm32f10x_rcc.h)(0x4EE57D14)
+I (..\Libraries\inc\misc.h)(0x4EE57D14)
